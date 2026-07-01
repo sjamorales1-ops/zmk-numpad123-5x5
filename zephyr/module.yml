@@ -1,0 +1,5 @@
+name: zmk-keyboard-numpad123-5x5
+build:
+  settings:
+    board_root: .
+    snippet_root: .
