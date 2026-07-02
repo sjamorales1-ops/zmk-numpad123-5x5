@@ -21,7 +21,7 @@
 include:
 
   - board: nice_nano_v2
-    shield: numpad123_5x5
+    shield: numpad123_5x5 dongle_display
 
 ## To build with ZMK Studio support, uncomment the following block
 ## by removing the leading '#' from each line.
